@@ -3,6 +3,7 @@
 ```text
 --- CASHIER ---
 Enter the number of items you want to buy: 2
+------------------------------------------
 Enter the name of item #1: Apple
 Enter the price: \$1.20
 Enter the quantity: 3
