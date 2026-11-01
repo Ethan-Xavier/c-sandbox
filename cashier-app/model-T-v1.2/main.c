@@ -19,6 +19,8 @@ int main(){
 
     ITEM store[numOfItems];
 
+    printf("------------------------------------------\n");
+
     for(int i = 0; i < numOfItems; i++){
 
         printf("Enter the name of item #%d: ", i+1);
